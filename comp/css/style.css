@@ -275,3 +275,18 @@ h1,h2,h3,h4,h5,p {
     border-radius: 48px;
     margin: 0 24px 12px;
 }
+
+/* - - - - - - camera START - - - - - - */
+
+.cameraStartButton {
+	background-color: #0033a1;
+	color: white;
+	padding: 16px 24px;
+	border-radius: 8px;
+	border:0;
+}
+#camera {
+	text-align: center;
+}
+
+/* - - - - - - camera END - - - - - - */
