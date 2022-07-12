@@ -1,9 +1,9 @@
 <?php include "head.php" ?>
-<!-- 4005900139849 -->
+<!-- 4005808812899 -->
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: white;
-	--cor03: #646463;
+	--cor03: #293776;
 }</style>
 
 <body>
@@ -13,25 +13,30 @@
 
 				<?php include "estrela.php" ?>
 
-				<h1 class="text-center">
-					<span>Produto </span>
-                    <span>perfeito!</span>
-                    <span>Não</span>
-                    <span>irrita</span>
-                    <span>a</span>
-                    <span>pele</span>
-                    <span>e</span>
-                    <span>fácil</span>
-                    <span>aplicação</span>
+			<!--	<h1 class="text-center">
+					<span>Ótimo</span>
+                    <span>Gosto </span>
+                    <span>muito </span>
+                    <span>dele, </span>
+                    <span>rende </span>
+                    <span>bem </span>
+                    <span>e </span>
+                    <span>deixa </span>
+                    <span>a </span>
+                    <span>área </span>
+                    <span>dos </span>
+                    <span>olhos </span>
+                    <span>bem </span>
+                    <span>iluminada</span>
                     
 				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Cristine C.
+                Yasmin
 				</b><br>
-					04/05/2022 • NIVEA
-				</p>
+                05/01/2021 • NIVEA
+				</p> -->
 			</div>
 		</div>
 	</div>
@@ -43,12 +48,12 @@
 				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/4005900139849/4005900139849_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/4005808812899/4005808812899_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Creme Facial Antissinais Dia Cellular
-					<br><span>52g</span>
+                Creme Facial Antissinais Noite Q10 Power Plus
+					<br><span>50ml</span>
 				</h1>
 			</div>
 		</div>
@@ -58,14 +63,19 @@
 			<div class="col-12 col-md-12">
 				<div id="prodCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">
 					<div class="carousel-inner">
-						<div class="carousel-item active">
+                    <div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900139849/4005900139849_3.jpg" alt="NIVEA">
+								<img src="comp/images/4005808812899/4005808812899_3.jpg" alt="NIVEA">
+							</div>
+						</div>
+                        <div class="carousel-item">
+							<div class="carousel-imgctn">
+								<img src="comp/images/4005808812899/4005808812899_4.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900139849/4005900139849_4.jpg" alt="NIVEA">
+								<img src="comp/images/4005808812899/4005808812899_5.jpg" alt="NIVEA">
 							</div>
 						</div>
 					</div>
@@ -87,26 +97,29 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Creme facial diurno que reduz rugas e linhas de expressão em apenas 4 semanas de uso. Deixa a pele com aparência mais jovem e descansada. Cuide bem de você!
+                Creme facial que reduz rugas profundamente. Sua fórmula exclusiva reduz linhas de expressão e deixa a pele com aparência mais jovem em apenas 4 semanas de uso. Confira +detalhes!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                Com ácido hialurônico, renova e deixa a pele firme. Conta ainda com FPS 30, que protege dos raios UVA/UVB.
+                Composto com Q10+MaxCreatina, dois componentes que agem diretamente nas rugas, melhorando a firmeza em 2 semanas. Use à noite para a pele absorver mais nutrientes.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
 				</h3>
 				<div class="beneficios">
 					<div class="fade-revealUp">
-                    Melhora comprovada da firmeza da pele
+                    Hidratação por 24h
 					</div>
 					<div class="fade-revealUp">
-                    Sensação de efeito lifting
+                    Revitaliza a pele durante a noite
 					</div>
                     <div class="fade-revealUp">
-                    Ácido Hialurônico + Creatina + Extrato de Magnólia
+                    Adequado para peles sensíveis
+					</div>
+                    <div class="fade-revealUp">
+                    Dermatologicamente testado
 					</div>
 				</div>
 			</div>
@@ -118,17 +131,17 @@
 			<div class="col-12 text-center">
 				<h1>Modo de uso</h1>
 				<div class="d-block d-md-none">
-					<div class="modoUsoDiv" style="background-image: url('comp/images/4005900139849/4005900139849_5.jpg')">
+					<div class="modoUsoDiv" style="background-image: url('comp/images/4005808812899/4005808812899_6.jpg')">
 					</div>
 				</div>
 				<div class="d-none d-md-block">
-					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/4005900139849/4005900139849_5.jpg')">
+					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/4005808812899/4005808812899_6.jpg')">
 					</div>
 				</div>				
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Sodium Hydroxide, Phenylbenzimidazole Sulfonic Acid, Parfum, Alpha-Isomethyl Ionone, Geraniol, Benzyl Alcohol, Citronellol, Linalool, Phenoxyethanol, Ethylhexylglycerin, Trisodium EDTA, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Dimethicone, Sodium Cetearyl Sulfate, Sodium Hyaluronate, 1-Methylhydantoin-2-Imide, Creatine, Magnolia Officinalis Bark Extract, Ethylhexyl Stearate, Tapioca Starch, Alcohol Denat., Cetearyl Alcohol, Methylpropanediol, Octocrylene, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Glycerin, Homosalate, Aqua
+                    Aqua, Glycerin, Ethylhexyl Cocoate, Methylpropanediol, Cetyl Alcohol, Hydrogenated Coco-Glycerides, Stearyl Alcohol, Butylene Glycol, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Glyceryl Stearate Citrate, Macadamia Integrifolia Seed Oil, Ubiquinone, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Lanolin Alcohol, Tridecyl Trimellitate, Carbomer, Trisodium EDTA, Ethylhexylglycerin, Sodium Hydroxide, Phenoxyethanol, Linalool, Benzyl Alcohol, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Benzyl Salicylate, d-Limonene, Parfum
 					</p>
 				</div>
 			</div>
@@ -139,7 +152,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
-				<img src="comp/images/4005900139849/4005900139849_6.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/4005808812899/4005808812899_7.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 		</div>
 	</div>
@@ -148,7 +161,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-10 text-center">
 				<video width="100%" height="auto" controls autoplay muted loop>
-					<source src="comp/images/4005900139849/4005900139849_video.mp4" type="video/mp4">
+					<source src="comp/images/4005808812899/4005808812899_video.mp4" type="video/mp4">
 						Your browser does not support the video tag.
 					</video>
 				</div>
