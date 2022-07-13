@@ -1,4 +1,4 @@
-/* - - - - - - root START - - - - - - */
+
 
 :root {
 	--cor01: #0033a1;
@@ -23,9 +23,9 @@ h1,h2,h3,h4,h5,p {
 .home h1,.home h2,.home h3,.home h4,.home h5,.home p {
 	color: #0033a1;
 }
-/* - - - - - - root END - - - - - - */
 
-/* - - - - - - fade START - - - - - - */
+
+
 .fade-section {
   height: 100vh;
   width: 100%;
@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,p {
   height: 50vh;
   background-color: #000;
 }
-/* - - - - - - fade END - - - - - - */
+
 
 @keyframes scale {
   100% {
@@ -78,13 +78,13 @@ h1,h2,h3,h4,h5,p {
   opacity: 0;
   filter: blur(4px);
 }
-/* - - - - Estrelas - - - - */
+
 .containerIntro .introStar:nth-child(1) {animation: fade-in 0.8s 1.5s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro .introStar:nth-child(2) {animation: fade-in 0.8s 1.6s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro .introStar:nth-child(3) {animation: fade-in 0.8s 1.7s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro .introStar:nth-child(4) {animation: fade-in 0.8s 1.8s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro .introStar:nth-child(5) {animation: fade-in 0.8s 1.9s forwards cubic-bezier(0.11, 0, 0.5, 0);}
-/* - - - - Palavras - - - - */
+
 .containerIntro span:nth-child(1) {animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(2) {animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(3) {animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);}
@@ -125,13 +125,13 @@ h1,h2,h3,h4,h5,p {
 .containerIntro span:nth-child(38) {animation: fade-in 0.8s 3.8s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(39) {animation: fade-in 0.8s 3.9s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(40) {animation: fade-in 0.8s 4.0s forwards cubic-bezier(0.11, 0, 0.5, 0);}
-/* - - - - Autor - - - - */
+
 .containerIntro .introAutor {animation: fade-in 0.8s 2s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 
 @keyframes fade-in {100% {opacity: 1;filter: blur(0);}
 }
 
-/* - - - - - - custom START - - - - - - */
+
 .containerIntro {
 	background: var(--cor03);
 	height: 100vh;
@@ -279,13 +279,13 @@ h1,h2,h3,h4,h5,p {
     margin: 0 24px 12px;
 }
 
-/* - - - - - - camera START - - - - - - */
+
 
 .cameraStartButtonBg {
 	position: relative;
 	background-color: #0033a1;
-    width: 390px;
-    height: 390px;
+    width: 370px;
+    height: 370px;
     border-radius: 50%;
 	border:0;
 	display: flex;
@@ -321,9 +321,20 @@ h1,h2,h3,h4,h5,p {
 #camera video {
 	border-radius: 50%;
 }
+#barLine {
+	height: 3px;
+	background: #0033A1;
+	width: 300px;
+	margin: auto;
+	z-index: 9999;
+	top: 185px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-150px);
+}
 
-/* - - - - - - camera END - - - - - - */
-/* - - - - - - modal START - - - - - - */
+
+
 
 .resultado-modal-bg {
 	position: absolute;
@@ -338,8 +349,25 @@ h1,h2,h3,h4,h5,p {
 .resultado-modal-box {
 	background-color: white;
 	border-radius: 8px;
+	text-align: center;
+	padding: 24px;
 }
 .resultado-image {
-	max-width: 90%;
+	width: 300px;
+	height: 300px;
+	display: block;
 }
-/* - - - - - - modal END - - - - - - */
+.resultado-botao {
+	background-color: #0033a1;
+	padding: 16px 24px;
+	border-radius: 8px;
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+}
+.resultado-botao-secondary {
+	background-color: transparent;
+	color: #0033a1;
+	border: 1px solid #0033a1;
+}
