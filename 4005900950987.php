@@ -2,8 +2,8 @@
 <!-- 4005900950987 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
-	--cor03: #ac9189;
+	--cor02: #0033a1;
+	--cor03: #d6c8c5;
 }</style>
 
 <body>
@@ -15,46 +15,14 @@
 
 				<!--<h1 class="text-center">
 					<span>Muito</span>
-                    <span>   Satisfeiita!</span>
-                    <span>    Parabéns</span>
-                    <span>    pela</span>
-                    <span>   qualidade,</span>
-                    <span>    tenho</span>
-                    <span>    51</span>
-                    <span>    anos</span>
-                    <span>    e</span>
-                    <span>   usando</span>
-                    <span>    este</span>
-                    <span>    produto</span>
-                    <span>    estou</span>
-                    <span>    quase</span>
-                    <span>    zerando</span>
-                    <span>    o</span>
-                    <span>    melasma.</span>
-                    <span>    Muito</span>
-                    <span>    melhor</span>
-                    <span>    e</span>
-                    <span>    mais</span>
-                    <span>    eficiente</span>
-                    <span>    do</span>
-                    <span>    que</span>
-                    <span>    cremes</span>
-                    <span>    caros.</span>
-                    <span>    Além</span>
-                    <span>    disto</span>
-                    <span>    minha</span>
-                    <span>    pele</span>
-                    <span>    continua</span>
-                    <span>    macia</span>
-                    <span>    e</span>
-                    <span>    hidratada</span>
+                   
 				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
 					Selma J.
 				</b><br>
-					21/02/2022
+					21/02/2022 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -130,7 +98,7 @@
                 <br>5) Hidrata;
                 <br>6) Com proteção UVA/UVB;
                 <br>7) Efeito Matte
-                <br>*Teste de percepção
+                <br>*Teste de percepção.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
@@ -165,7 +133,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua (Água), Palmitic Acid (Ácido Palmítico), Stearic Acid (Ácido Esteárico), Ethylhexyl Salicylate (Octissalato), Glycerin (Glicerol), C12-15 Alkyl Benzoate (Benzoato de Alquila C12-15), Glyceryl Stearate (Monoestearato de Glicerila), Tapioca Starch (Amido), Laureth-23 (Lauromacrogol 400), Phenoxyethanol (Fenoxietanol), Potassium Hydroxide (Hidróxido de Potássio), Butyl Methoxydibenzoylmethane (Avobenzona), Dimethicone (Dimeticona), Myristic Acid (Ácido Mirístico), Methylparaben (Metilparabeno), Arachidic Acid (Ácido Eicosanoico), Sodium Polyacrylate (Poliacrilato de Sódio), Trisodium EDTA (Edetato Trissódico), Ethylhexylglycerin (Etilexilglicerina), Oleic Acid (Ácido Oleico), Sodium Ascorbyl Phosphate (Ascorbil Fosfato de Sódio), Hydrolyzed Pearl (Pérola Hidrolisada), Sodium Hyaluronate (Hialuronato de Sódio), PEG-40 Hydrogenated Castor Oil (Óleo de Rícino Hidrogenado Etoxilado), Trideceth-9 (Polietilenoglicol-9 Éter de Álcool Tridecílico), Curcuma Aromatica Root Oil (Óleo da Raiz de Curcuma Aromatica), Decylene Glycol (Decilenoglicol), 1,2-Hexanediol (1,2-Hexanodiol), Parfum (Perfume), CI 77891 (Dióxido de Titânio).
+                    Aqua (Água), Palmitic Acid (Ácido Palmítico), Stearic Acid (Ácido Esteárico), Ethylhexyl Salicylate (Octissalato), Glycerin (Glicerol), C12-15 Alkyl Benzoate (Benzoato de Alquila C12-15), Glyceryl Stearate (Monoestearato de Glicerila), Tapioca Starch (Amido), Laureth-23 (Lauromacrogol 400), Phenoxyethanol (Fenoxietanol), Potassium Hydroxide (Hidróxido de Potássio), Butyl Methoxydibenzoylmethane (Avobenzona), Dimethicone (Dimeticona), Myristic Acid (Ácido Mirístico), Methylparaben (Metilparabeno), Arachidic Acid (Ácido Eicosanoico), Sodium Polyacrylate (Poliacrilato de Sódio), Trisodium EDTA (Edetato Trissódico), Ethylhexylglycerin (Etilexilglicerina), Oleic Acid (Ácido Oleico), Sodium Ascorbyl Phosphate (Ascorbil Fosfato de Sódio), Hydrolyzed Pearl (Pérola Hidrolisada), Sodium Hyaluronate (Hialuronato de Sódio), PEG-40 Hydrogenated Castor Oil (Óleo de Rícino Hidrogenado Etoxilado), Trideceth-9 (Polietilenoglicol-9 Éter de Álcool Tridecílico), Curcuma Aromatica Root Oil (Óleo da Raiz de Curcuma Aromatica), Decylene Glycol (Decilenoglicol), 1,2-Hexanediol (1,2-Hexanodiol), Parfum (Perfume), CI 77891 (Dióxido de Titânio)
 					</p>
 				</div>
 			</div>

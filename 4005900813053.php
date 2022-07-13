@@ -2,8 +2,8 @@
 <!-- 4005900813053 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
-	--cor03: #f0deba;
+	--cor02: #0033a1;
+	--cor03: #faf4e8;
 }</style>
 
 <body>
@@ -54,7 +54,7 @@
 				<b>
 					Selma J.
 				</b><br>
-					21/02/2022
+					21/02/2022 • NIVEA
 				</p> 
 			</div>
 		</div>
@@ -71,7 +71,7 @@
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Serum Facial Cellular Luminous 630
+                Sérum Facial Cellular Luminous 630<sup><span>®</span></sup>
 					<br><span>30ml</span>
 				</h1>
 			</div>

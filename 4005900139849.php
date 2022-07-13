@@ -3,7 +3,7 @@
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: white;
-	--cor03: #646464;
+	--cor03: #646463;
 }</style>
 
 <body>
@@ -14,30 +14,23 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>A </span>
-					<span>textura </span>
-					<span>é </span>
-					<span>maravilhosa, </span>
-					<span>o </span>
-					<span>cheiro </span>
-					<span>também. </span>
-					<span>Achei </span>
-					<span>bom </span>
-					<span>inclusive </span>
-					<span>para </span>
-					<span>pele </span>
-					<span>oleosa </span>
-					<span>e </span>
-					<span>pré </span>
-					<span>make. </span>
-					<span>Muito </span>
-					<span>bom! </span>
+					<span>Produto </span>
+                    <span>perfeito!</span>
+                    <span>Não</span>
+                    <span>irrita</span>
+                    <span>a</span>
+                    <span>pele</span>
+                    <span>e</span>
+                    <span>fácil</span>
+                    <span>aplicação</span>
+                    
+				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Larissa R
+					Cristine C.
 				</b><br>
-					20/04/2022 • Época Cosméticos
+					04/05/2022 • NIVEA
 				</p>
 			</div>
 		</div>
@@ -50,12 +43,12 @@
 				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/4005900139849/4005900139849-00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/4005900139849/4005900139849_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-					Creme Facial Antissinais Q10 Energy Dia FPS15
-					<br><span>50g</span>
+                Creme Facial Antissinais Dia Cellular
+					<br><span>52g</span>
 				</h1>
 			</div>
 		</div>
@@ -67,17 +60,12 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900139849/4005900139849-03.jpg" alt="NIVEA">
+								<img src="comp/images/4005900139849/4005900139849_3.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900139849/4005900139849-04.jpg" alt="NIVEA">
-							</div>
-						</div>
-						<div class="carousel-item">
-							<div class="carousel-imgctn">
-								<img src="comp/images/4005900139849/4005900139849-05.jpg" alt="NIVEA">
+								<img src="comp/images/4005900139849/4005900139849_4.jpg" alt="NIVEA">
 							</div>
 						</div>
 					</div>
@@ -99,26 +87,26 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-					O <b>Creme Facial NIVEA Q10 Energy FPS15</b> reduz rugas profundamente. Sua fórmula exclusiva reduz linhas de expressão e deixa a pele com aparência mais jovem em apenas 4 semanas de uso. Garanta o seu!
+                Creme facial diurno que reduz rugas e linhas de expressão em apenas 4 semanas de uso. Deixa a pele com aparência mais jovem e descansada. Cuide bem de você!
 				</p>
 				<h3 class="fade-revealUp">
-					Para que serve?
+                Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-					Três poderosos oxidantes deixam a pele radiante: Q10, Vitamina C e Vitamina E. Protegem contra a formação de rugas e evita o envelhecimento da pele.
+                Com ácido hialurônico, renova e deixa a pele firme. Conta ainda com FPS 30, que protege dos raios UVA/UVB.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
 				</h3>
 				<div class="beneficios">
 					<div class="fade-revealUp">
-						Tem FPS15, protege contra os raios UVA/UVB
+                    Melhora comprovada da firmeza da pele
 					</div>
 					<div class="fade-revealUp">
-						Sensação instantânea de pele macia e iluminada
+                    Sensação de efeito lifting
 					</div>
-					<div class="fade-revealUp">
-						Pele descansada e saudável
+                    <div class="fade-revealUp">
+                    Ácido Hialurônico + Creatina + Extrato de Magnólia
 					</div>
 				</div>
 			</div>
@@ -130,17 +118,17 @@
 			<div class="col-12 text-center">
 				<h1>Modo de uso</h1>
 				<div class="d-block d-md-none">
-					<div class="modoUsoDiv" style="background-image: url('comp/images/4005900139849/4005900139849-07.jpg')">
+					<div class="modoUsoDiv" style="background-image: url('comp/images/4005900139849/4005900139849_5.jpg')">
 					</div>
 				</div>
 				<div class="d-none d-md-block">
-					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/4005900139849/4005900139849-07.jpg')">
+					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/4005900139849/4005900139849_5.jpg')">
 					</div>
 				</div>				
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse quas pariatur excepturi aspernatur vitae unde dolorem est ducimus quam eveniet, eos labore, voluptatem, impedit expedita at velit amet architecto error cum dicta similique illo obcaecati! Voluptas voluptates sapiente, reiciendis corporis quas fugit accusamus natus officia cupiditate, necessitatibus? Quaerat natus facere in dolorem laboriosam quae quia explicabo cumque, iusto pariatur accusamus perspiciatis, fugiat, magni, veniam ea. Temporibus delectus ut magni ullam, consectetur dolore doloremque officiis hic id, numquam, error dolorum perferendis!
+                    Sodium Hydroxide, Phenylbenzimidazole Sulfonic Acid, Parfum, Alpha-Isomethyl Ionone, Geraniol, Benzyl Alcohol, Citronellol, Linalool, Phenoxyethanol, Ethylhexylglycerin, Trisodium EDTA, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Dimethicone, Sodium Cetearyl Sulfate, Sodium Hyaluronate, 1-Methylhydantoin-2-Imide, Creatine, Magnolia Officinalis Bark Extract, Ethylhexyl Stearate, Tapioca Starch, Alcohol Denat., Cetearyl Alcohol, Methylpropanediol, Octocrylene, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Glycerin, Homosalate, Aqua
 					</p>
 				</div>
 			</div>
@@ -151,7 +139,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
-				<img src="comp/images/4005900139849/4005900139849-08.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/4005900139849/4005900139849_6.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 		</div>
 	</div>
@@ -160,7 +148,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-10 text-center">
 				<video width="100%" height="auto" controls autoplay muted loop>
-					<source src="comp/images/4005900139849/4005900139849-video.mp4" type="video/mp4">
+					<source src="comp/images/4005900139849/4005900139849_video.mp4" type="video/mp4">
 						Your browser does not support the video tag.
 					</video>
 				</div>

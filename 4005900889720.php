@@ -142,7 +142,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Glycerin, Alcohol Denat., Cetearyl Alcohol, Distarch Phosphate, Dimethicone, Glyceryl Stearate Citrate, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Dibutyl Adipate, Myristyl Myristate, Octyldodecanol, Dicaprylyl Carbonate, Cetearyl Isononanoate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Carbomer, Trisodium EDTA, Sodium Hydroxide, Rosa Damascena Flower Water, Sodium Hyaluronate, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Linalool, Geraniol, Citronellol, d-Limonene, Methyl Benzoate, Tocopherol, Parfum, CI 16035
+                    Aqua, Glycerin, Alcohol Denat., Cetearyl Alcohol, Distarch Phosphate, Dimethicone, Glyceryl Stearate Citrate, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Dibutyl Adipate, Myristyl Myristate, Octyldodecanol, Dicaprylyl Carbonate, Cetearyl Isononanoate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Carbomer, Trisodium EDTA, Sodium Hydroxide, Rosa Damascena Flower Water, Sodium Hyaluronate, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, Linalool, Geraniol, Citronellol, d-Limonene, Methyl Benzoate, Tocopherol, Parfum, CI 16035.
 					</p>
 				</div>
 			</div>

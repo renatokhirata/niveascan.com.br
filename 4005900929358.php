@@ -2,8 +2,8 @@
 <!-- 4005900929358 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
-	--cor03: #f0deba;
+	--cor02: #0033a1;
+	--cor03: #faf4e8;
 }</style>
 
 <body>
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Fluido Facial Cellular Luminous 630
+                Fluido Facial Cellular Luminous 630<sup><span>®</span></sup>
 					<br><span>40ml</span>
 				</h1>
 			</div>
@@ -110,8 +110,8 @@
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                <b>LUMINOUS 630® </b>é um uniformizador para área dos olhos com ação em nível celular no equilíbrio da produção de melanina. Atua nas 3 principais causas das olheiras:
-                    <br> 1) LUMINOUS630® equilibra a pigmentação irregular para reduzir as olheiras;
+                <b>LUMINOUS 630<sup>®</sup> </b>é um uniformizador para área dos olhos com ação em nível celular no equilíbrio da produção de melanina. Atua nas 3 principais causas das olheiras:
+                    <br> 1) LUMINOUS630<sup>®</sup> equilibra a pigmentação irregular para reduzir as olheiras;
                     <br> 2) A cafeína energizadora ajuda a reduzir as bolsas e atenuar o aspecto de olhar cansado;
                     <br> 3) Ácido Hialurônico hidrata a pele ao redor dos olhos e diminui linhas finas e rugas para um olhar iluminado e mais jovem.
 				</p>
@@ -160,8 +160,8 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    "Aqua (Água), Glycerin (Glicerol), Dicaprylyl Carbonate (Carbonato de Dicaprilila), Methylpropanediol (Metilpropanodiol), Glyceryl Stearate (Monoestearato de
-Glicerila), Cetearyl Alcohol (Álcool Cetoestearílico), Hydrogenated Vegetable Oil (Óleo Vegetal Hidrogenado), Tapioca Starch (Amido ), Caprylic/Capric Triglyceride (Triglicerídeo Caprílico/Cáprico), Cocoglycerides (Cocoglicerídeos), Octyldodecanol (Octildodecanol), 1,2-Hexanediol (1,2-Hexanodiol), Isobutylamido Thiazolyl Resorcinol (Isobutilamido Tiazolil Resorcina), Sodium Hyaluronate (Hialuronato de Sódio), Caffeine (Cafeína), Tocopherol (Tocoferol), Ethyl- hexylglycerin (Etilexilglicerina), Potassium Cetyl Phosphate (Cetil Fosfato de Potássio), Hydrogenated Palm Glycerides (Glicerídeos de Palma Hidrogenados), Caprylyl Glycol (Caprililglicol), Carrageenan (Carragenina), Xanthan Gum (Goma Xantana), Trisodium EDTA (Edetato Trissódico), Sodium Hydroxide (Hidróxido de Sódio), Phenoxyethanol (Fenoxietanol), CI 77891 (Dióxido de Titânio)."
+                    Aqua (Água), Glycerin (Glicerol), Dicaprylyl Carbonate (Carbonato de Dicaprilila), Methylpropanediol (Metilpropanodiol), Glyceryl Stearate (Monoestearato de
+Glicerila), Cetearyl Alcohol (Álcool Cetoestearílico), Hydrogenated Vegetable Oil (Óleo Vegetal Hidrogenado), Tapioca Starch (Amido ), Caprylic/Capric Triglyceride (Triglicerídeo Caprílico/Cáprico), Cocoglycerides (Cocoglicerídeos), Octyldodecanol (Octildodecanol), 1,2-Hexanediol (1,2-Hexanodiol), Isobutylamido Thiazolyl Resorcinol (Isobutilamido Tiazolil Resorcina), Sodium Hyaluronate (Hialuronato de Sódio), Caffeine (Cafeína), Tocopherol (Tocoferol), Ethyl- hexylglycerin (Etilexilglicerina), Potassium Cetyl Phosphate (Cetil Fosfato de Potássio), Hydrogenated Palm Glycerides (Glicerídeos de Palma Hidrogenados), Caprylyl Glycol (Caprililglicol), Carrageenan (Carragenina), Xanthan Gum (Goma Xantana), Trisodium EDTA (Edetato Trissódico), Sodium Hydroxide (Hidróxido de Sódio), Phenoxyethanol (Fenoxietanol), CI 77891 (Dióxido de Titânio).
 				</div>
 			</div>
 		</div>
