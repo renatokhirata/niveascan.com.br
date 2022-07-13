@@ -3,7 +3,7 @@
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: white;
-	--cor03: #252364;
+	--cor03: #262d7d;
 }</style>
 
 <body>
@@ -15,46 +15,14 @@
 
 				<!--<h1 class="text-center">
 					<span>Muito</span>
-                    <span>   Satisfeiita!</span>
-                    <span>    Parabéns</span>
-                    <span>    pela</span>
-                    <span>   qualidade,</span>
-                    <span>    tenho</span>
-                    <span>    51</span>
-                    <span>    anos</span>
-                    <span>    e</span>
-                    <span>   usando</span>
-                    <span>    este</span>
-                    <span>    produto</span>
-                    <span>    estou</span>
-                    <span>    quase</span>
-                    <span>    zerando</span>
-                    <span>    o</span>
-                    <span>    melasma.</span>
-                    <span>    Muito</span>
-                    <span>    melhor</span>
-                    <span>    e</span>
-                    <span>    mais</span>
-                    <span>    eficiente</span>
-                    <span>    do</span>
-                    <span>    que</span>
-                    <span>    cremes</span>
-                    <span>    caros.</span>
-                    <span>    Além</span>
-                    <span>    disto</span>
-                    <span>    minha</span>
-                    <span>    pele</span>
-                    <span>    continua</span>
-                    <span>    macia</span>
-                    <span>    e</span>
-                    <span>    hidratada</span>
+                 
 				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
 					Selma J.
 				</b><br>
-					21/02/2022
+					21/02/2022 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -128,7 +96,7 @@
 				</h3>
 				<p class="fade-revealUp">
                 Sua fórmula conta com BAKUCHIOL PURO, a nova geração de ativos anti-idade de NIVEA. Este ativo revolucionário estimula a produção de colágeno e ajuda a redensificar e fortalecer as fibras de sustentação da pele.* Também conta com 2 tipos de ÁCIDO HIALURÔNICO, consagrados ativos anti-idade, conhecidos por hidratar, suavizar a pele e reduzir visivelmente as rugas profundas.
-                <br> *Teste in vitro com células da pele
+                <br> *Teste in vitro com células da pele.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais

@@ -3,7 +3,7 @@
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: #0033a1;
-	--cor03: #f0deba;
+	--cor03: #faf4e8;
 }</style>
 
 <body>
@@ -41,7 +41,7 @@
 				<b>
 					Débora N.
 				</b><br>
-					22/07/2021
+					22/07/2021 • NIVEA
 				</p> 
 			</div>
 		</div>
@@ -58,7 +58,7 @@
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Fluido Facial Cellular Luminous 630
+                Fluido Facial Cellular Luminous 630<sup><span>®</span></sup>
 					<br><span>40ml</span>
 				</h1>
 			</div>
