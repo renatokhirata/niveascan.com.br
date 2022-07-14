@@ -1,9 +1,9 @@
 <?php include "head.php" ?>
-<!-- 42398004 -->
+<!-- 42176763 -->
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: white;
-	--cor03: #78b841;
+	--cor03: #006bb9;
 }</style>
 
 <body>
@@ -14,37 +14,36 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Amei!</span>
-                    <span>Comprei </span>
-                    <span>o </span>
-                    <span>produto </span>
-                    <span>ontem </span>
-                    <span>a </span>
-                    <span>noite </span>
+					<span>Super </span>
+                    <span>Levinho </span>
                     <span>e </span>
-                    <span>usei </span>
-                    <span>logo </span>
-                    <span>pela </span>
-                    <span>manhã, </span>
-                    <span>senti </span>
-                    <span>uma </span>
-                    <span>sensação </span>
-                    <span>deliciosa </span>
+                    <span>eficaz!</span>
+                    <span>Excelente </span>
+                    <span>produto </span>
+                    <span>e </span>
                     <span>de </span>
-                    <span>frescor, </span>
+                    <span>qualidade, </span>
+                    <span>cumpre </span>
                     <span>o </span>
-                    <span>cheirinho </span>
-                    <span>muito </span>
-                    <span>agradável...</span> 
-                    <span>amei </span>
+                    <span>que </span>
+                    <span>promete, </span>
+                    <span>quando </span>
+                    <span>acabar </span>
                     <span>o </span>
-                    <span>produto</span>
+                    <span>meu </span>
+                    <span>já </span>
+                    <span>vou </span>
+                    <span>comprar </span>
+                    <span>novamente.</span> 
+                    <span>Ah </span>
+                    <span>rende </span>
+                    <span>bastante. ;) </span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Luciane L.
+                Marie
 				</b><br>
-                13/04/2022 • NIVEA
+                10/06/2022 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -57,12 +56,12 @@
 				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/42398004/42398004_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/42176763/42176763_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Gel Hidratante Facial
-					<br><span>100g</span>
+                Gel Esfoliante Facial Refrescante
+					<br><span>75ml</span>
 				</h1>
 			</div>
 		</div>
@@ -74,17 +73,22 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_3.jpg" alt="NIVEA">
+								<img src="comp/images/42176763/42176763_3.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_4.jpg" alt="NIVEA">
+								<img src="comp/images/42176763/42176763_4.jpg" alt="NIVEA">
+							</div>
+						</div>
+                        <div class="carousel-item">
+							<div class="carousel-imgctn">
+								<img src="comp/images/42176763/42176763_5.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_5.jpg" alt="NIVEA">
+								<img src="comp/images/42176763/42176763_6.jpg" alt="NIVEA">
 							</div>
 						</div>
 					</div>
@@ -106,23 +110,29 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Hidratante em gel com ácido hialurônico e pepino. Textura mais leve que o creme facial. Não obstrui os poros e hidrata por 24h. Cuide bem da sua pele!
+                Gel esfoliante facial que promove limpeza profunda, removendo as impurezas e as células mortas da pele, sem agredi-la e ressecá-la. Conheça!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                O novo hidratante facial em gel da Nivea é ideal para pele oleosa. Sua fórmula especial deixa a pele sequinha e bem cuidada por 24h.
+                Esfolia e limpa profundamente a pele, estimulando a renovação celular. O resultado é uma pele macia e renovada todos os dias.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
 				</h3>
 				<div class="beneficios">
 					<div class="fade-revealUp">
-                    Livre de oleosidade
+                    Auxilia na renovação celular
 					</div>
                     <div class="fade-revealUp">
-                    Refresca e hidrata a pele do rosto
+                    Remove as céulas mortas sem irritar a pele
+					</div>
+                    <div class="fade-revealUp">
+                    Com bio blueberry e arroz orgânico
+					</div>
+                    <div class="fade-revealUp">
+                    Dermatologicamente testado
 					</div>
 				</div>
 			</div>
@@ -134,17 +144,17 @@
 			<div class="col-12 text-center">
 				<h1>Modo de uso</h1>
 				<div class="d-block d-md-none">
-					<div class="modoUsoDiv" style="background-image: url('comp/images/42398004/42398004_6.jpg')">
+					<div class="modoUsoDiv" style="background-image: url('comp/images/42176763/42176763_7.jpg')">
 					</div>
 				</div>
 				<div class="d-none d-md-block">
-					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/42398004/42398004_6.jpg')">
+					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/42176763/42176763_7.jpg')">
 					</div>
 				</div>				
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Glycerin, PEG-8, Ceteareth-20, Sodium Hyaluronate, Cucumis Sativus Juice, Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Alpha-Isomethyl Ionone, Citronellol, Linalool, Parfum
+                    Aqua, Isopropyl Stearate, Glyceryl Glucoside, Nelumbium Speciosum Flower Extract, Panthenol, Tocopheryl Acetate, Glycerin, VP/Hexadecene Copolymer, Sodium Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Ethylhexylglycerin, Phenoxyethanol, Linalool, Benzyl Alcohol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Butylphenyl Methylpropional, Benzyl Salicylate, Parfum, Sodium Hydroxide, Methylparaben
 				</div>
 			</div>
 		</div>
@@ -154,22 +164,22 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
-				<img src="comp/images/42398004/42398004_7.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/42176763/42176763_8.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 		</div>
 	</div>
-
+<!--
 	<div class="container-fluid containerE">
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-10 text-center">
 				<video width="100%" height="auto" controls autoplay muted loop>
-					<source src="comp/images/42398004/42398004_video.mp4" type="video/mp4">
+					<source src="comp/images/42176763/42176763-video.mp4" type="video/mp4">
 						Your browser does not support the video tag.
 					</video>
 				</div>
 			</div>
 		</div> 
-
+-->
 		<div class="container-fluid containerF">
 			<div class="row">
 				<div class="col-12">

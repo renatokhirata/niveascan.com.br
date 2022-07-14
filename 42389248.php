@@ -1,9 +1,9 @@
 <?php include "head.php" ?>
-<!-- 42398004 -->
+<!-- 42389248 -->
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: white;
-	--cor03: #78b841;
+	--cor03: #181255;
 }</style>
 
 <body>
@@ -14,37 +14,32 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Amei!</span>
-                    <span>Comprei </span>
-                    <span>o </span>
-                    <span>produto </span>
-                    <span>ontem </span>
-                    <span>a </span>
-                    <span>noite </span>
-                    <span>e </span>
-                    <span>usei </span>
-                    <span>logo </span>
-                    <span>pela </span>
-                    <span>manhã, </span>
-                    <span>senti </span>
-                    <span>uma </span>
-                    <span>sensação </span>
-                    <span>deliciosa </span>
-                    <span>de </span>
-                    <span>frescor, </span>
-                    <span>o </span>
-                    <span>cheirinho </span>
+					<span>Resultado</span> 
+                    <span>em </span>
+                    <span>poucos </span>
+                    <span>dias</span>
+                    <span>Estou </span>
+                    <span>gostando </span>
                     <span>muito </span>
-                    <span>agradável...</span> 
-                    <span>amei </span>
-                    <span>o </span>
-                    <span>produto</span>
+                    <span>e </span>
+                    <span>percebi </span>
+                    <span>que </span>
+                    <span>meu </span>
+                    <span>rosto </span>
+                    <span>está </span>
+                    <span>com </span>
+                    <span>a </span>
+                    <span>pele </span>
+                    <span>fininha </span>
+                    <span>e </span>
+                    <span>aveludada. </span>
+                    <span>Recomendo. </span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Luciane L.
+                Márcia A.
 				</b><br>
-                13/04/2022 • NIVEA
+                25/01/2022 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -57,11 +52,11 @@
 				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/42398004/42398004_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/42389248/42389248_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Gel Hidratante Facial
+                Creme Facial Noturno
 					<br><span>100g</span>
 				</h1>
 			</div>
@@ -74,17 +69,17 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_3.jpg" alt="NIVEA">
+								<img src="comp/images/42389248/42389248_3.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_4.jpg" alt="NIVEA">
+								<img src="comp/images/42389248/42389248_4.jpg" alt="NIVEA">
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/42398004/42398004_5.jpg" alt="NIVEA">
+								<img src="comp/images/42389248/42389248_5.jpg" alt="NIVEA">
 							</div>
 						</div>
 					</div>
@@ -106,23 +101,26 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Hidratante em gel com ácido hialurônico e pepino. Textura mais leve que o creme facial. Não obstrui os poros e hidrata por 24h. Cuide bem da sua pele!
+                <b>Creme facial noturno</b> que proporciona hidratação intensa sem deixar a pele oleosa. Textura leve de rápida absorção. Confira + detalhes!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                O novo hidratante facial em gel da Nivea é ideal para pele oleosa. Sua fórmula especial deixa a pele sequinha e bem cuidada por 24h.
+                Hidrata profundamente enquanto você dorme. Com Vitamina B5 e tecnologia Hydro Waxes à base de água, renova as células durante a noite.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
 				</h3>
 				<div class="beneficios">
 					<div class="fade-revealUp">
-                    Livre de oleosidade
+                    Enriquecido com Vitamina B5
 					</div>
                     <div class="fade-revealUp">
-                    Refresca e hidrata a pele do rosto
+                    Não deixa a pele oleosa
+					</div>
+                    <div class="fade-revealUp">
+                    Fórmula leve de rápida absorção
 					</div>
 				</div>
 			</div>
@@ -134,17 +132,18 @@
 			<div class="col-12 text-center">
 				<h1>Modo de uso</h1>
 				<div class="d-block d-md-none">
-					<div class="modoUsoDiv" style="background-image: url('comp/images/42398004/42398004_6.jpg')">
+					<div class="modoUsoDiv" style="background-image: url('comp/images/42389248/42389248_6.jpg')">
 					</div>
 				</div>
 				<div class="d-none d-md-block">
-					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/42398004/42398004_6.jpg')">
+					<div class="modoUsoDiv-desktop" style="background-image: url('comp/images/42389248/42389248_6.jpg')">
 					</div>
 				</div>				
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Glycerin, PEG-8, Ceteareth-20, Sodium Hyaluronate, Cucumis Sativus Juice, Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Lactic Acid, Potassium Sorbate, Alpha-Isomethyl Ionone, Citronellol, Linalool, Parfum
+					<br> Não inclui Parabenos, Óleo mineral</br>
+					 Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Olus Oil, Cetyl Alcohol, Isopropyl Palmitate, Panthenol, Sodium Polyacrylate, Dimethicone, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Linalool, d-Limonene, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Parfum5
 				</div>
 			</div>
 		</div>
@@ -154,7 +153,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
-				<img src="comp/images/42398004/42398004_7.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+				<img src="comp/images/42389248/42389248_7.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 			</div>
 		</div>
 	</div>
@@ -163,7 +162,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-10 text-center">
 				<video width="100%" height="auto" controls autoplay muted loop>
-					<source src="comp/images/42398004/42398004_video.mp4" type="video/mp4">
+					<source src="comp/images/42389248/42389248-video.mp4" type="video/mp4">
 						Your browser does not support the video tag.
 					</video>
 				</div>
