@@ -139,7 +139,8 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Olus Oil, Cetyl Alcohol, Isopropyl Palmitate, Dimethicone, Sodium Polyacrylate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Limonene, Parfum, Sodium Hydroxide	
+                    <br> Não inclui Parabenos, Óleo mineral</br>
+					Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Olus Oil, Cetyl Alcohol, Isopropyl Palmitate, Dimethicone, Sodium Polyacrylate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Limonene, Parfum, Sodium Hydroxide	
 				</div>
 			</div>
 		</div>

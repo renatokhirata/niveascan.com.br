@@ -153,7 +153,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Isododecane, Glycerin, C15-19 Alkane, Camellia Sinensis Leaf Extract, Vaccinium Myrtillus Fruit Extract, Coco-Caprylate/Caprate, Caprylyl/Capryl Glucoside, Isopropyl Palmitate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Benzethonium Chloride, Phenoxyethanol, CI 60725, CI 61565
+                    Não inclui Perfume, Aqua, Isododecane, Glycerin, C15-19 Alkane, Camellia Sinensis Leaf Extract, Vaccinium Myrtillus Fruit Extract, Coco-Caprylate/Caprate, Caprylyl/Capryl Glucoside, Isopropyl Palmitate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Benzethonium Chloride, Phenoxyethanol, CI 60725, CI 61565
 				</div>
 			</div>
 		</div>

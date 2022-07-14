@@ -205,7 +205,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Methylpropanediol, PEG-8, Glycerin, PEG-40 Hydrogenated Castor Oil, Fucus Vesiculosus Extract, Glyceryl Glucoside, Panthenol, Sodium Lactate, Caprylic/Capric Triglyceride, Caprylyl Glycol, Aluminum Chlorohydrate, Methylparaben, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Geraniol, Parfum, Benzyl Alcohol, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Linalool, Cinnamyl Alcohol, Hydroxycitronellal, Benzyl Salicylate
+                    Aqua, Homosalate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Octocrylene, Methylpropanediol, Distarch Phosphate, Glycerin, Ethylhexyl Stearate, Phenylbenzimidazole Sulfonic Acid, Glyceryl Glucoside, Tocopheryl Acetate, Fucus Vesiculosus Extract, Sodium Chloride, Dimethicone, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Glyceryl Stearate, Sodium Stearoyl Glutamate, Chondrus Crispus Extract, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Trisodium EDTA, Phenoxyethanol, Methylparaben, Citronellol, Geraniol, Benzyl Alcohol, Linalool, Parfum, Sodium Hydroxide
 				</div>
 			</div>
 		</div>

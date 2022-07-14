@@ -132,7 +132,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Isopropyl Stearate, Glycerin, Dimethicone, Methylpropanediol, Panthenol, 1,2-Hexanediol, Phenoxyethanol, Methylparaben, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Butylphenyl Methylpropional, Parfum, Lanolin Alcohol (Eucerit<sup>®</sup>), Prunus Amygdalus Dulcis Oil, Sodium Hydroxide, Sodium Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glyceryl Glucoside, Linalool, Benzyl Salicylate, Hexyl Cinnamal
+                    Não inclui Álcool (Álcool Etílico), Aqua, Isopropyl Stearate, Glycerin, Dimethicone, Methylpropanediol, Panthenol, 1,2-Hexanediol, Phenoxyethanol, Methylparaben, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Butylphenyl Methylpropional, Parfum, Lanolin Alcohol (Eucerit<sup>®</sup>), Prunus Amygdalus Dulcis Oil, Sodium Hydroxide, Sodium Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glyceryl Glucoside, Linalool, Benzyl Salicylate, Hexyl Cinnamal
 				</div>
 			</div>
 		</div>

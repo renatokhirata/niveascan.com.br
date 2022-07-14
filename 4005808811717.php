@@ -187,17 +187,17 @@
 			</div>
 		</div>
 	</div>
-<!--
+
 	<div class="container-fluid containerE">
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-10 text-center">
 				<video width="100%" height="auto" controls autoplay muted loop>
-					<source src="comp/images/4005808811717/4005808811717-video.mp4" type="video/mp4">
+					<source src="comp/images/4005808811717/4005808811717_video.mp4" type="video/mp4">
 						Your browser does not support the video tag.
 					</video>
 				</div>
 			</div>
-		</div> -->
+		</div>
 
 		<div class="container-fluid containerF">
 			<div class="row">

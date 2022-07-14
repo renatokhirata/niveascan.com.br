@@ -146,7 +146,8 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Parfum, Citronellol, d-Limonene, Geraniol, Linalool, Trisodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Butyl Methoxydibenzoylmethane, Dimethicone, Tocopheryl Acetate, Cetyl Alcohol, Cetyl Palmitate, Butyrospermum Parkii Butter, Ethylhexyl Salicylate, Glycerin, Aqua	
+                    <br> Não inclui Parabenos, Óleo mineral</br>
+					Parfum, Citronellol, d-Limonene, Geraniol, Linalool, Trisodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Butyl Methoxydibenzoylmethane, Dimethicone, Tocopheryl Acetate, Cetyl Alcohol, Cetyl Palmitate, Butyrospermum Parkii Butter, Ethylhexyl Salicylate, Glycerin, Aqua	
 				</div>
 			</div>
 		</div>
