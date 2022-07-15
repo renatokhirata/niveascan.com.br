@@ -13,16 +13,48 @@
 
 				<?php include "estrela.php" ?>
 
-			<!--	<h1 class="text-center">
-					<span>Muito</span>
+				<h1 class="text-center">
+					<span>Amei!</span>
+					<span>Comprei </span>
+					<span>sem </span>
+					<span>grandes </span>
+					<span>pretensões, </span>
+					<span>depois </span>
+					<span>de </span>
+					<span>um </span>
+					<span>mês </span>
+					<span>de </span>
+					<span>usar </span>
+					<span>esse </span>
+					<span>creme, </span>
+					<span>comecei </span>
+					<span>a </span>
+					<span>receber </span>
+					<span>elogios. </span>
+					<span>Realmente </span>
+					<span>minha </span>
+					<span>pele </span>
+					<span>está </span>
+					<span>ótima, </span>
+					<span>muito </span>
+					<span>feliz </span>
+					<span>de </span>
+					<span>ter </span>
+					<span>descoberto</span> 
+					<span>um </span>
+					<span>produto </span>
+					<span>bom </span>
+					<span>com </span>
+					<span>preço </span>
+					<span>excelente</span>
                     
 				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Selma J.
+				Dalva E.
 				</b><br>
-					21/02/2022 • NIVEA
+				18/02/202 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -76,7 +108,7 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h3 class="fade-revealUp">
-					O que é?
+				O que é?
 				</h3>
 				<p class="fade-revealUp">
                 Creme facial noturno que reduz profundamente as rugas. Diminui linhas de expressão e deixa a pele com aparência mais jovem em apenas 4 semanas de uso. Garanta o seu!
@@ -120,6 +152,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
+                    Não inclui Parabenos
                     Aqua, Glycerin, Cetearyl Alcohol, Ethylhexyl Cocoate, Methylpropanediol, Caprylic/Capric Triglyceride, Hydrogenated Coco-Glycerides, Butyrospermum Parkii Butter, Glyceryl Stearate Citrate, Panthenol, Macadamia Ternifolia Seed Oil, Polymethylsilsesquioxane, Magnolia Officinalis Bark Extract, Creatine, 1-Methylhydantoin-2-Imide, Sodium Hyaluronate, Dimethicone, Carbomer, Trisodium EDTA, Ethylhexylglycerin, Sodium Hydroxide, Phenoxyethanol, d-Limonene, Linalool, Citronellol, Benzyl Alcohol, Geraniol, Alpha-Isomethyl Ionone, Parfum
 					</p>
 				</div>

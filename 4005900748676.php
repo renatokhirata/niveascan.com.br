@@ -88,7 +88,7 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Sabonete em gel para o rosto com tecnologia MicellAir. Esfolia a pele com todo cuidado, garantindo maciez todos os dias. Conheça +detalhes!
+                Sabonete em gel para o rosto com tecnologia MicellAir. Esfolia a pele com todo cuidado, garantindo maciez todos os dias. Conheça + detalhes!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
@@ -132,7 +132,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua, Isododecane, Glycerin, C15-19 Alkane, Camellia Sinensis Leaf Extract, Vaccinium Myrtillus Fruit Extract, Coco-Caprylate/Caprate, Caprylyl/Capryl Glucoside, Isopropyl Palmitate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Benzethonium Chloride, Phenoxyethanol, CI 60725, CI 6156
+                    Não inclui Perfume, Aqua, Isododecane, Glycerin, C15-19 Alkane, Camellia Sinensis Leaf Extract, Vaccinium Myrtillus Fruit Extract, Coco-Caprylate/Caprate, Caprylyl/Capryl Glucoside, Isopropyl Palmitate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Benzethonium Chloride, Phenoxyethanol, CI 60725, CI 6156
 				</div>
 			</div>
 		</div>

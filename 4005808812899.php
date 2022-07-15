@@ -13,29 +13,27 @@
 
 				<?php include "estrela.php" ?>
 
-			<!--	<h1 class="text-center">
-					<span>Ótimo</span>
-                    <span>Gosto </span>
-                    <span>muito </span>
-                    <span>dele, </span>
-                    <span>rende </span>
-                    <span>bem </span>
-                    <span>e </span>
-                    <span>deixa </span>
-                    <span>a </span>
-                    <span>área </span>
-                    <span>dos </span>
-                    <span>olhos </span>
-                    <span>bem </span>
-                    <span>iluminada</span>
+				<h1 class="text-center">
+					<span>Simplesmente </span>
+					<span>amando, </span>
+					<span>já </span>
+					<span>estou </span>
+					<span>vendo </span>
+					<span>resultado</span> 
+					<span>e </span>
+					<span>indicando </span>
+					<span>ele </span>
+					<span>tbm… </span>
+					<span>muito </span>
+					<span>bommmmm😊</span>
                     
 				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Yasmin
+                Dayana E.
 				</b><br>
-                05/01/2021 • NIVEA
+                04/03/2022 • NIVEA
 				</p> -->
 			</div>
 		</div>
@@ -97,13 +95,13 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Creme facial que reduz rugas profundamente. Sua fórmula exclusiva reduz linhas de expressão e deixa a pele com aparência mais jovem em apenas 4 semanas de uso. Confira +detalhes!
+                Creme facial que reduz rugas profundamente. Sua fórmula exclusiva reduz linhas de expressão e deixa a pele com aparência mais jovem em apenas 4 semanas de uso. Confira + detalhes!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                Composto com Q10+MaxCreatina, dois componentes que agem diretamente nas rugas, melhorando a firmeza em 2 semanas. Use à noite para a pele absorver mais nutrientes.
+                Composto com Q10 + MaxCreatina, dois componentes que agem diretamente nas rugas, melhorando a firmeza em 2 semanas. Use à noite para a pele absorver mais nutrientes.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais

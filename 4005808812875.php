@@ -14,21 +14,7 @@
 				<?php include "estrela.php" ?>
 
 			<!--	<h1 class="text-center">
-					<span>Ótimo</span>
-                    <span>Gosto </span>
-                    <span>muito </span>
-                    <span>dele, </span>
-                    <span>rende </span>
-                    <span>bem </span>
-                    <span>e </span>
-                    <span>deixa </span>
-                    <span>a </span>
-                    <span>área </span>
-                    <span>dos </span>
-                    <span>olhos </span>
-                    <span>bem </span>
-                    <span>iluminada</span>
-                    
+					<span>Ótimo</span>                    
 				
 				</h1>
 				<p class="introAutor text-center">
@@ -97,7 +83,7 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                <b>Creme para os olhos que reduz rugas e linhas de expressão em 4 semanas. Deixa a região dos olhos com aparência descansada e radiante. Todo cuidado NIVEA para você!
+                <b>Creme para os olhos que reduz rugas e linhas de expressão em 4 semanas. Deixa a região dos olhos com aparência descansada e radiante. Todo cuidado <b>NIVEA</b> para você!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
