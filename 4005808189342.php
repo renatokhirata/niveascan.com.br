@@ -7,24 +7,21 @@
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-				<!--	<span>Limpeza </span>
-                    
-                    
-					
+				<span>Limpeza </span>	
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Marcello
 				</b><br>
                 02/06/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

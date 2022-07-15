@@ -2,41 +2,26 @@
 <!-- 4005900889720 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #ecc1c8;
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
-			<!--	<h1 class="text-center">
+				<h1 class="text-center">
 					<span>Maravilhoso</span>
-                    <span>Passou </span>
-                    <span>a </span>
-                    <span>ser </span>
-                    <span>meu </span>
-                    <span>favorito, </span>
-                    <span>deixa </span>
-                    <span>minha </span>
-                    <span>pele </span>
-                    <span>sequinha </span>
-                    <span>e </span>
-                    <span> hidratada</span> 
-                    <span>o </span>
-                    <span>dia </span>
-                    <span>todo!!</span>
-				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 JWalles
 				</b><br>
 					08/06/2022
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

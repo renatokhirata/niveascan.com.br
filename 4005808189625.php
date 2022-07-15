@@ -37,15 +37,13 @@
                     <span>muito </span>
                     <span>a </span>
                     <span>oleosidade.</span>
-                    
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Jade B.
 				</b><br>
                 10/04/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

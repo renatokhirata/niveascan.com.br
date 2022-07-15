@@ -22,9 +22,7 @@
                     <span>pele</span>
                     <span>e</span>
                     <span>fácil</span>
-                    <span>aplicação</span>
-                    
-				
+                    <span>aplicação.</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>

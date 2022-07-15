@@ -18,26 +18,6 @@
                     <span>todas </span>
                     <span>as </span>
                     <span>promessas!</span>
-                    <span>Cumpriu </span>
-                    <span>com </span>
-                    <span>todas </span>
-                    <span>as </span>
-                    <span>promessas </span>
-                    <span>descritas </span>
-                    <span>na </span>
-                    <span>embalagem </span>
-                    <span>do </span>
-                    <span>produto. </span>
-                    <span>Na </span>
-                    <span>minha </span>
-                    <span>opinião, </span>
-                    <span>atingiu </span>
-                    <span>todos </span>
-                    <span>os </span>
-                    <span>objetivos</span> 
-                    <span>e </span>
-                    <span>mostrou </span>
-                    <span>eficácia. </span>
                     <span>Deixou </span>
                     <span>minha </span>
                     <span>pele </span>
@@ -55,15 +35,13 @@
                     <span>limpeza. </span>
                     <span>Super </span>
                     <span>aprovada!!!! </span>
-                    
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Giuliana G.
 				</b><br>
                 10/07/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

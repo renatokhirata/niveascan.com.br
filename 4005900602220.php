@@ -2,7 +2,7 @@
 <!-- 4005900602220 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #ecc1c8;
 }</style>
 
@@ -46,7 +46,7 @@
                 Elisa
 				</b><br>
                 04/10/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

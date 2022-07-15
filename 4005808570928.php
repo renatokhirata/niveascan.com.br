@@ -14,56 +14,6 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Adorei!</span>
-                    <span>Antes </span>
-                    <span>de </span>
-                    <span>conhecer </span>
-                    <span>esse </span>
-                    <span>produto, </span>
-                    <span>eu </span>
-                    <span>usava </span>
-                    <span>um </span>
-                    <span>de </span>
-                    <span>outra </span>
-                    <span>marca, </span>
-                    <span>bem </span>
-                    <span>mais </span>
-                    <span>caro. </span>
-                    <span>Como </span>
-                    <span>tive </span>
-                    <span>que </span>
-                    <span>reduzir </span>
-                    <span>gastos, </span>
-                    <span>resolvi </span>
-                    <span>comprar </span>
-                    <span>esse </span>
-                    <span>da </span>
-                    <span>Nívea </span>
-                    <span>(porque </span>
-                    <span>lembrei </span>
-                    <span>do </span>
-                    <span>Nívea </span>
-                    <span>da </span>
-                    <span>latinha </span>
-                    <span>azul </span>
-                    <span>usado </span>
-                    <span>pela </span>
-                    <span>minha </span>
-                    <span>avó </span>
-                    <span>e </span>
-                    <span>pela </span>
-                    <span>minha </span>
-                    <span>mãe </span>
-                    <span>qdo </span>
-                    <span>eu </span>
-                    <span>era </span>
-                    <span>criança, </span>
-                    <span>então </span>
-                    <span>achei </span>
-                    <span>que </span>
-                    <span>poderia </span>
-                    <span>ser </span>
-                    <span>bom). </span>
                     <span>Testei </span>
                     <span>o </span>
                     <span>hidratante</span> 
@@ -81,24 +31,16 @@
                     <span>sequinha </span>
                     <span>o </span>
                     <span>dia </span>
-                    <span>todo, </span>
-                    <span>mesmo </span>
-                    <span>depois </span>
-                    <span>de </span>
-                    <span>fazer </span>
-                    <span>alguns </span>
-                    <span>retoques. </span>
+                    <span>todo. </span>
                     <span>Estou </span>
                     <span>satisfeita!</span>
-                    
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Kelly
 				</b><br>
                 14/01/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

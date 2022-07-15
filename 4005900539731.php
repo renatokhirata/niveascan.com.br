@@ -39,14 +39,13 @@
                     <span>sombra </span>
                     <span>de </span>
                     <span>dúvidas.</span>
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Fabiana G.
 				</b><br>
                 06/04/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

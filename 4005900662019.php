@@ -39,15 +39,13 @@
                     <span>limpa </span>
                     <span>na </span>
                     <span>pele.</span>
-                    
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Marcello
 				</b><br>
                 02/06/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

@@ -7,7 +7,7 @@
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
@@ -30,14 +30,13 @@
                     <span>para </span>
                     <span>os </span>
                     <span>cliente </span>
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Karoline S.
 				</b><br>
                 08/02/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>
