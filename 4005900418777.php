@@ -27,9 +27,7 @@
                     <span>dos </span>
                     <span>olhos </span>
                     <span>bem </span>
-                    <span>iluminada</span>
-                    
-				
+                    <span>iluminada.</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>

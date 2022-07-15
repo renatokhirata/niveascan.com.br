@@ -2,60 +2,26 @@
 <!-- 4005900889737 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #ecc1c8;
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
-				<!--<h1 class="text-center">
-					<span>Muito</span>
-                    <span>   Satisfeiita!</span>
-                    <span>    Parabéns</span>
-                    <span>    pela</span>
-                    <span>   qualidade,</span>
-                    <span>    tenho</span>
-                    <span>    51</span>
-                    <span>    anos</span>
-                    <span>    e</span>
-                    <span>   usando</span>
-                    <span>    este</span>
-                    <span>    produto</span>
-                    <span>    estou</span>
-                    <span>    quase</span>
-                    <span>    zerando</span>
-                    <span>    o</span>
-                    <span>    melasma.</span>
-                    <span>    Muito</span>
-                    <span>    melhor</span>
-                    <span>    e</span>
-                    <span>    mais</span>
-                    <span>    eficiente</span>
-                    <span>    do</span>
-                    <span>    que</span>
-                    <span>    cremes</span>
-                    <span>    caros.</span>
-                    <span>    Além</span>
-                    <span>    disto</span>
-                    <span>    minha</span>
-                    <span>    pele</span>
-                    <span>    continua</span>
-                    <span>    macia</span>
-                    <span>    e</span>
-                    <span>    hidratada</span>
-				
+				<h1 class="text-center">
+					<span>Maravilhoso</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Selma J.
+                JWalles
 				</b><br>
-					21/02/2022
-				</p> -->
+					08/06/2022
+				</p>
 			</div>
 		</div>
 	</div>

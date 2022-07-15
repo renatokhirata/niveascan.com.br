@@ -14,8 +14,7 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Pois </span>
-                    <span>são </span>
+                    <span>São </span>
                     <span>os </span>
                     <span>melhores </span>
                     <span>produtos </span>
@@ -27,9 +26,7 @@
                     <span>produtos </span>
                     <span>da</span>
                     <span>marca</span> 
-                    <span>nivea</span>
-                    
-				
+                    <span>NIVEA.</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>

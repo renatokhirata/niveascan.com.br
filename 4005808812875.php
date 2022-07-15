@@ -2,27 +2,26 @@
 <!-- 4005808812875 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #facd00;
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
-			<!--	<h1 class="text-center">
+				<h1 class="text-center">
 					<span>Ótimo</span>                    
-				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Yasmin
 				</b><br>
                 05/01/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

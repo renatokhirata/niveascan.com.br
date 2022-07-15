@@ -45,7 +45,7 @@
                 Luciane L.
 				</b><br>
                 13/04/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

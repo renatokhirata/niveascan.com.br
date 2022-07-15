@@ -3,42 +3,25 @@
 <style>:root {
 	--cor01: #0033a1;
 	--cor02: #0033a1;
-	--cor03: #faf4e8;
+	--cor03: #ffeacc;
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
-				<!--<h1 class="text-center">
-					<span>A </span>
-					<span>textura </span>
-					<span>é </span>
-					<span>maravilhosa, </span>
-					<span>o </span>
-					<span>cheiro </span>
-					<span>também. </span>
-					<span>Achei </span>
-					<span>bom </span>
-					<span>inclusive </span>
-					<span>para </span>
-					<span>pele </span>
-					<span>oleosa </span>
-					<span>e </span>
-					<span>pré </span>
-					<span>make. </span>
-					<span>Muito </span>
-					<span>bom! </span>
+				<h1 class="text-center">
+					<span>Maravilhoso</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Larissa R
+                JWalles
 				</b><br>
-					20/04/2022 • Época Cosméticos
-				</p> -->
+					08/06/2022
+				</p>
 			</div>
 		</div>
 	</div>

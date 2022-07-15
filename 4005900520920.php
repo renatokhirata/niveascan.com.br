@@ -7,16 +7,14 @@
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-				<!--	<span>Simplesmente </span>
-                    
-					
+					<span>Simplesmente </span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>

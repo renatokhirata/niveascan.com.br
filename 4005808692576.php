@@ -44,7 +44,7 @@
                 Marie
 				</b><br>
                 10/06/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>
