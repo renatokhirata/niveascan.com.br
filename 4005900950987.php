@@ -7,23 +7,21 @@
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
 				<?php include "estrela.php" ?>
 
-				<!--<h1 class="text-center">
-					<span>Muito</span>
-                   
-				
+				<h1 class="text-center">
+					<span>Maravilhoso</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Selma J.
+                JWalles
 				</b><br>
-					21/02/2022 • NIVEA
-				</p> -->
+					08/06/2022
+				</p>
 			</div>
 		</div>
 	</div>

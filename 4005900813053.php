@@ -47,7 +47,7 @@
                     <span>    continua</span>
                     <span>    macia</span>
                     <span>    e</span>
-                    <span>    hidratada</span>
+                    <span>    hidratada.</span>
 				
 				</h1>
 				<p class="introAutor text-center">

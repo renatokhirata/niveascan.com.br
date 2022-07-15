@@ -7,7 +7,7 @@
 }</style>
 
 <body>
-	<div class="container-fluid containerIntro">
+	<div class="container-fluid containerIntro d-none">
 		<div class="row justify-content-center d-flex">
 			<div class="col-12 col-md-6">
 
@@ -26,15 +26,13 @@
 					<span>tbm… </span>
 					<span>muito </span>
 					<span>bommmmm😊</span>
-                    
-				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Dayana E.
 				</b><br>
                 04/03/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

@@ -35,16 +35,14 @@
                     <span>sensível </span>
                     <span>dos </span>
                     <span>olhos! </span>
-                    <span>Amo!!!.</span>
-                    
-					
+                    <span>Amo!!!</span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
                 Nilcivane
 				</b><br>
                 08/02/2022 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>

@@ -46,7 +46,7 @@
 					<span>bom </span>
 					<span>com </span>
 					<span>preço </span>
-					<span>excelente</span>
+					<span>excelente.</span>
                     
 				
 				</h1>

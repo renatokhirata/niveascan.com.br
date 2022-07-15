@@ -36,7 +36,7 @@
                 Karoline S.
 				</b><br>
                 08/02/2021 • NIVEA
-				</p> -->
+				</p>
 			</div>
 		</div>
 	</div>
