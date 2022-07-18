@@ -51,10 +51,18 @@
 	<div class="container-fluid containerA">
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 d-flex justify-content-center">
-				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
+			<picture>
+    <source type="image/webp" srcset="comp/images/logo-nivea.webp">
+    <source type="image/jpeg" srcset="comp/images/logo-nivea.png">	
+			<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
+</picture>
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/4005900813046/4005900813046_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+			<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_00.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_00.png">	
+			<img src="comp/images/4005900813046/4005900813046_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+</picture>
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
@@ -71,27 +79,47 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813046/4005900813046_3.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_3.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_3.jpg">	
+							<img src="comp/images/4005900813046/4005900813046_3.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813046/4005900813046_4.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_4.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_4.jpg">	
+							<img src="comp/images/4005900813046/4005900813046_4.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
                         <div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813046/4005900813046_5.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_5.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_5.jpg">	
+							<img src="comp/images/4005900813046/4005900813046_5.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
                         <div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813046/4005900813046_6.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_6.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_6.jpg">	
+							<img src="comp/images/4005900813046/4005900813046_6.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813046/4005900813046_7.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_7.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_7.jpg">	
+							<img src="comp/images/4005900813046/4005900813046_7.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 					</div>
@@ -162,7 +190,11 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
+				<picture>
+    <source type="image/webp" srcset="comp/images/4005900813046/4005900813046_8.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813046/4005900813046_8.jpg">
 				<img src="comp/images/4005900813046/4005900813046_8.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+</picture>
 			</div>
 		</div>
 	</div>
