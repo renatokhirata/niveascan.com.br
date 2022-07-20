@@ -15,7 +15,7 @@
 
 				<h1 class="text-center">
 					<span>Simplesmente </span>
-                    <span>maravilhosa</span>
+                    <span>maravilhosa.</span>
                     <span>Uso </span>
                     <span>diariamente</span> 
                     <span>na </span>
@@ -30,7 +30,7 @@
                     <span>se </span>
                     <span>precisar </span>
                     <span>remover </span>
-                    <span>maquiagem</span> 
+                    <span>maquiagem,</span> 
                     <span>é</span>
                     <span>o </span>
                     <span>melhor </span>
@@ -42,10 +42,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Fabiana G.
+                Fabiana G
 				</b><br>
                 06/04/2021 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

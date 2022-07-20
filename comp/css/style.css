@@ -125,6 +125,7 @@ h1,h2,h3,h4,h5,p {
 .containerIntro span:nth-child(38) {animation: fade-in 0.8s 3.8s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(39) {animation: fade-in 0.8s 3.9s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 .containerIntro span:nth-child(40) {animation: fade-in 0.8s 4.0s forwards cubic-bezier(0.11, 0, 0.5, 0);}
+.containerIntro svg {animation: fade-in 0.8s 4.0s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 
 .containerIntro .introAutor {animation: fade-in 0.8s 2s forwards cubic-bezier(0.11, 0, 0.5, 0);}
 
@@ -134,7 +135,7 @@ h1,h2,h3,h4,h5,p {
 
 .containerIntro {
 	background: var(--cor03);
-	height: 100vh;
+	height: 50vh;
 	z-index: 100;
 	display: flex;
 	justify-content: center;
@@ -144,14 +145,11 @@ h1,h2,h3,h4,h5,p {
 .containerIntro h1 {
 	color: var(--cor02);
 	font-weight: 600;
-	font-size: 2rem;
+	font-size: 1.4rem;
 }
 .introAutor {
 	color: var(--cor02);
 	width: 100%;
-}
-.containerIntro svg {
-	display: inline-block;
 }
 .introStarDiv {
 	display: flex;

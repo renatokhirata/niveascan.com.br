@@ -16,10 +16,10 @@
 				<h1 class="text-center">
 					<span>Produto </span>
 					<span>muito </span>
-					<span>bom </span>
-					<span>a </span>
-					<span>nivea </span>
-					<span>mas </span>
+					<span>bom! </span>
+					<span>A </span>
+					<span>NIVEA </span>
+					<span>mais </span>
 					<span>uma </span>
 					<span>vez </span>
 					<span>fazendo </span>
@@ -29,7 +29,7 @@
 					<span>qualidade </span>
 					<span>para </span>
 					<span>os </span>
-					<span>cliente </span>
+					<span>clientes. </span>
 				</h1>
 				<p class="introAutor text-center">
 					<b>
@@ -37,6 +37,7 @@
 					</b><br>
 					08/02/2021 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

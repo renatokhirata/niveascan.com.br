@@ -18,10 +18,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                JWalles
+                J Walles
 				</b><br>
 					08/06/2022
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

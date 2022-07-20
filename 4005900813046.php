@@ -39,10 +39,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Débora N.
+					Débora N
 				</b><br>
 					22/07/2021 • NIVEA
-				</p> 
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

@@ -40,10 +40,11 @@
 				</h1>
 				<p class="introAutor text-center">
 					<b>
-						Paula S.
+						Paula S
 					</b><br>
 					10/06/22 • NIVEA
 				</p> 
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

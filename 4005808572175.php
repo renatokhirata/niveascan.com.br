@@ -39,9 +39,6 @@
                     <span>ter </span>
                     <span>conhecido</span> 
                     <span>antes!  </span>
-                    
-                    
-					
 				</h1>
 				<p class="introAutor text-center">
 				<b>
@@ -49,6 +46,7 @@
 				</b><br>
                 01/07/21 • NIVEA
 				</p> 
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

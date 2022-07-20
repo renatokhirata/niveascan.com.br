@@ -26,10 +26,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-					Cristine C.
+					Cristine C
 				</b><br>
 					04/05/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
