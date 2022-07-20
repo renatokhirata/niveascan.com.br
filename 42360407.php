@@ -28,9 +28,6 @@
 					<span>muito </span>
 					<span>bom. </span>
 					<span>Recomendo.</span>
-					
-					
-					
 				</h1>
 				<p class="introAutor text-center">
 					<b>
@@ -38,6 +35,7 @@
 					</b><br>
 					08/10/21 • NIVEA
 				</p> 
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

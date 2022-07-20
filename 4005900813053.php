@@ -14,48 +14,48 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Muito</span>
-                    <span>   Satisfeiita!</span>
-                    <span>    Parabéns</span>
-                    <span>    pela</span>
-                    <span>   qualidade,</span>
-                    <span>    tenho</span>
-                    <span>    51</span>
-                    <span>    anos</span>
-                    <span>    e</span>
-                    <span>   usando</span>
-                    <span>    este</span>
-                    <span>    produto</span>
-                    <span>    estou</span>
-                    <span>    quase</span>
-                    <span>    zerando</span>
-                    <span>    o</span>
-                    <span>    melasma.</span>
-                    <span>    Muito</span>
-                    <span>    melhor</span>
-                    <span>    e</span>
-                    <span>    mais</span>
-                    <span>    eficiente</span>
-                    <span>    do</span>
-                    <span>    que</span>
-                    <span>    cremes</span>
-                    <span>    caros.</span>
-                    <span>    Além</span>
-                    <span>    disto</span>
-                    <span>    minha</span>
-                    <span>    pele</span>
-                    <span>    continua</span>
-                    <span>    macia</span>
-                    <span>    e</span>
-                    <span>    hidratada.</span>
-				
+					<span>Muito </span>
+                    <span>Satisfeiita! </span>
+                    <span>Parabéns </span>
+                    <span>pela </span>
+                    <span>qualidade, </span>
+                    <span>tenho </span>
+                    <span>51 </span>
+                    <span>anos </span>
+                    <span>e </span>
+                    <span>usando </span>
+                    <span>este </span>
+                    <span>produto </span>
+                    <span>estou </span>
+                    <span>quase </span>
+                    <span>zerando </span>
+                    <span>o </span>
+                    <span>melasma. </span>
+                    <span>Muito </span>
+                    <span>melhor </span>
+                    <span>e </span>
+                    <span>mais </span>
+                    <span>eficiente </span>
+                    <span>do </span>
+                    <span>que </span>
+                    <span>cremes </span>
+                    <span>caros. </span>
+                    <span>Além </span>
+                    <span>disto </span>
+                    <span>minha </span>
+                    <span>pele </span>
+                    <span>continua </span>
+                    <span>macia </span>
+                    <span>e </span>
+                    <span>hidratada. </span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
 					Selma J.
 				</b><br>
 					21/02/2022 • NIVEA
-				</p> 
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
@@ -64,10 +64,18 @@
 	<div class="container-fluid containerA">
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 d-flex justify-content-center">
-				<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
+			<picture>
+    <source type="image/webp" srcset="comp/images/logo-nivea.webp">
+    <source type="image/jpeg" srcset="comp/images/logo-nivea.png">		
+			<img src="comp/images/logo-nivea.png" class="nivea-logo" alt="NIVEA">
+</picture>
 			</div>
 			<div class="col-8 col-md-4">
-				<img src="comp/images/4005900813053/4005900813053_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+			<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_00.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_00.png">		
+			<img src="comp/images/4005900813053/4005900813053_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+</picture>
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
@@ -84,27 +92,47 @@
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813053/4005900813053_3.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_3.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_3.png">		
+							<img src="comp/images/4005900813053/4005900813053_3.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813053/4005900813053_4.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_4.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_4.png">		
+							<img src="comp/images/4005900813053/4005900813053_4.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
                         <div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813053/4005900813053_5.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_5.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_5.png">		
+							<img src="comp/images/4005900813053/4005900813053_5.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
                         <div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813053/4005900813053_6.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_6.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_6.png">		
+							<img src="comp/images/4005900813053/4005900813053_6.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
-								<img src="comp/images/4005900813053/4005900813053_7.jpg" alt="NIVEA">
+							<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_7.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_7.png">		
+							<img src="comp/images/4005900813053/4005900813053_7.jpg" alt="NIVEA">
+</picture>
 							</div>
 						</div>
 					</div>
@@ -175,7 +203,11 @@
 		<div class="row d-flex justify-content-center">
 			<div class="col-12 col-md-6 text-center">
 				<h1 class="fade-revealUp">Especificações</h1>
+				<picture>
+    <source type="image/webp" srcset="comp/images/4005900813053/4005900813053_8.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900813053/4005900813053_8.png">	
 				<img src="comp/images/4005900813053/4005900813053_8.jpg" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+</picture>
 			</div>
 		</div>
 	</div>

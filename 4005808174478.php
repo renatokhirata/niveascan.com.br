@@ -2,7 +2,7 @@
 <!-- 4005808174478 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #9ad2c7;
 }</style>
 
@@ -14,39 +14,30 @@
 				<?php include "estrela.php" ?>
 
 				<h1 class="text-center">
-					<span>Gosto </span>
-                    <span>muito </span>
-                    <span>desse </span>
-                    <span>produto </span>
-                    <span>e </span>
-                    <span>queria </span>
-                    <span>saber </span>
-                    <span>se, </span>
-                    <span>por </span>
-                    <span>ter </span>
-                    <span>FPS30, </span>
-                    <span>substitui</span> 
-                    <span>o </span>
-                    <span>uso </span>
-                    <span>do </span>
-                    <span>protetor </span>
-                    <span>solar </span>
-                    <span>(considerando</span> 
-                    <span>uma </span>
-                    <span>pessoa </span>
-                    <span>que </span>
-                    <span>trabalha </span>
-                    <span>em </span>
-                    <span>escritório).</span>
-                    
-				
+				<span>Recomendo. </span>
+				<span>Me </span>
+				<span>surpreendeu. </span>
+				<span>A </span>
+				<span>qualidade </span>
+				<span>do </span>
+				<span>produto, </span>
+				<span>excelente </span>
+				<span>textura </span>
+				<span>e </span>
+				<span>hidratação </span>
+				<span>em </span>
+				<span>pouco </span>
+				<span>tempo </span>
+				<span>de </span>
+				<span>uso. </span>
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Andrea
+                Taly V
 				</b><br>
-                22/09/2021 • NIVEA
+                02/03/2021 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

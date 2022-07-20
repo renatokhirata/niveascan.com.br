@@ -40,10 +40,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Jade B.
+                Jade B
 				</b><br>
                 10/04/2021 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
@@ -60,8 +61,8 @@
 			</div>
 			<div class="col-8 col-md-4">
 			<picture>
-    <source type="image/webp" srcset="comp/images/4005808189625/4005808189625_.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808189625/4005808189625_.png">	
+    <source type="image/webp" srcset="comp/images/4005808189625/4005808189625_00.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808189625/4005808189625_00.png">	
 			<img src="comp/images/4005808189625/4005808189625_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 </picture>
 			</div>

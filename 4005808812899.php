@@ -33,6 +33,7 @@
 				</b><br>
                 04/03/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

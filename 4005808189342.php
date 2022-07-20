@@ -22,6 +22,7 @@
 				</b><br>
                 02/06/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
@@ -38,8 +39,8 @@
 			</div>
 			<div class="col-8 col-md-4">
 			<picture>
-    <source type="image/webp" srcset="comp/images/4005808189342/4005808189342_0.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808189342/4005808189342_0.png">	
+    <source type="image/webp" srcset="comp/images/4005808189342/4005808189342_00.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808189342/4005808189342_00.png">	
 			<img src="comp/images/4005808189342/4005808189342_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 </picture>
 			</div>

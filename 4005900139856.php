@@ -47,15 +47,14 @@
 					<span>com </span>
 					<span>preço </span>
 					<span>excelente.</span>
-                    
-				
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-				Dalva E.
+				Dalva E
 				</b><br>
 				18/02/202 • NIVEA
-				</p> -->
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

@@ -21,7 +21,8 @@
                 Jade B.
 				</b><br>
                 10/04/2021 • NIVEA
-				</p> -->
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

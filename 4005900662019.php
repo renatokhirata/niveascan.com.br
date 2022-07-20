@@ -15,7 +15,7 @@
 
 				<h1 class="text-center">
 					<span>Limpeza </span>
-                    <span>eficaz</span>
+                    <span>eficaz.</span>
                     <span>Excelente </span>
                     <span>água </span>
                     <span>micelar. </span>
@@ -36,7 +36,7 @@
                     <span>aspecto </span>
                     <span>refrescante</span> 
                     <span>e </span>
-                    <span>limpa </span>
+                    <span>limpo </span>
                     <span>na </span>
                     <span>pele.</span>
 				</h1>
@@ -46,6 +46,7 @@
 				</b><br>
                 02/06/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
