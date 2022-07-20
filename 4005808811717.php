@@ -38,10 +38,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Giuliana G.
+                Giuliana G
 				</b><br>
                 10/07/2021 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

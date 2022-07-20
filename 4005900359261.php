@@ -22,6 +22,7 @@
 				</b><br>
                 02/06/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

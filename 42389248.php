@@ -37,10 +37,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Márcia A.
+                Márcia A
 				</b><br>
                 25/01/2022 • NIVEA
-				</p> -->
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

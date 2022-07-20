@@ -21,7 +21,8 @@
                 Fabiana G.
 				</b><br>
                 06/04/2021 • NIVEA
-				</p> -->
+				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>

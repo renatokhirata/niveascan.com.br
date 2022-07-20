@@ -42,10 +42,11 @@
 				</h1>
 				<p class="introAutor text-center">
 				<b>
-                Luciane L.
+                Luciane L
 				</b><br>
                 13/04/2022 • NIVEA
 				</p>
+				<?php include "seta.php"?>
 			</div>
 		</div>
 	</div>
