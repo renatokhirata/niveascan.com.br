@@ -1,6 +1,7 @@
 <?php include "head-home.php" ?>
 
-<!-- 2.1 -->
+<!-- 2.2 -->
+<h1>2.2</h1>
 
 <div class="home">
 	<div id="resultado-modal" class="resultado-modal-bg d-none">
