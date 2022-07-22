@@ -61,8 +61,8 @@
 						<div class="carousel-item active">
 							<div class="carousel-imgctn">
 							<picture>
-    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_8.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_8.jpg">	
+    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_3.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_3.jpg">	
 							<img src="comp/images/4005808811212/4005808811212_3.jpg" alt="NIVEA">
 </picture>
 							</div>
@@ -70,8 +70,8 @@
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
 							<picture>
-    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_8.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_8.jpg">	
+    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_4.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_4.jpg">	
 							<img src="comp/images/4005808811212/4005808811212_4.jpg" alt="NIVEA">
 </picture>
 							</div>
@@ -79,8 +79,8 @@
                         <div class="carousel-item">
 							<div class="carousel-imgctn">
 							<picture>
-    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_8.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_8.jpg">	
+    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_5.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_5.jpg">	
 							<img src="comp/images/4005808811212/4005808811212_5.jpg" alt="NIVEA">
 </picture>
 							</div>
@@ -88,8 +88,8 @@
 						<div class="carousel-item">
 							<div class="carousel-imgctn">
 							<picture>
-    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_8.webp">
-    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_8.jpg">	
+    <source type="image/webp" srcset="comp/images/4005808811212/4005808811212_6.webp">
+    <source type="image/jpeg" srcset="comp/images/4005808811212/4005808811212_6.jpg">	
 							<img src="comp/images/4005808811212/4005808811212_6.jpg" alt="NIVEA">
 </picture>
 							</div>

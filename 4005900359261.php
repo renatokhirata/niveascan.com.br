@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Água Micelar Solução de Limpeza 7 em 1 Efeito Matte
+                Água Micelar Solução de Limpeza 7 em 1
 					<br><span>200ml</span>
 				</h1>
 			</div>
@@ -145,7 +145,7 @@
 				<h3 id="ingredientes" class="ingredientes" onclick="ingredientesClick()">Ingredientes &#x25BE</h3>
 				<div id="ingredientesLista" class="ingredientesLista">
 					<p>
-                    Aqua; PEG-40 Hydrogenated Castor Oil; Tocopheryl Acetate; Glycerin; Sorbitol; Panthenol; Poloxamer 124; Decyl Glucoside; Glyceryl Glucoside; Disodium Cocoyl Glutamate; Citric Acid; Polyquaternium-10; Sodium Chloride; Sodium Acetate; Propylene Glycol; 1,2-Hexanediol; Trisodium EDTA, Phenoxyethanol
+                    Aqua; PEG-40 Hydrogenated Castor Oil; Tocopheryl Acetate; Glycerin; Sorbitol; Panthenol; Poloxamer 124; Decyl Glucoside; Glyceryl Glucoside; Disodium Cocoyl Glutamate; Citric Acid; Polyquaternium-10; Sodium Chloride; Sodium Acetate; Propylene Glycol; 1,2-Hexanediol; Trisodium EDTA, Phenoxyethanol.
 				</div>
 			</div>
 		</div>

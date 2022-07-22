@@ -46,8 +46,8 @@
 			</div>
 			<div class="col-12 col-md-9 text-center">
 				<h1 class="fade-h1 fade-revealUp">
-                Fluido Facial Cellular Luminous 630<sup><span>®</span></sup>
-					<br><span>40ml</span>
+                NIVEA Cellular Luminous 630<sup>®</sup> Antispot Antiolheiras
+					<br><span>15ml</span>
 				</h1>
 			</div>
 		</div>
