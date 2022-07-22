@@ -1,13 +1,13 @@
 <?php include "head-home.php" ?>
 
-<!-- 2.2 -->
-<h1>2.2</h1>
+2.5
 
 <div class="home">
 	<div id="resultado-modal" class="resultado-modal-bg d-none">
 		<div id="resultado" class="resultado-modal-box">
 			<div id="encontrado">
 				<img id="resultado-image" class="resultado-image" alt="NIVEA" src="">
+				<div id="consolelog"></div>
 				<a id="resultado-botao" class="resultado-botao" target="_blank" href="">
 					Ver produto
 				</a><br>
@@ -56,20 +56,58 @@
 	</div>
 	
 </div> <!--END Home -->
+
 <script>
 	function orderByOcurrence(arr){
 		var counts = {};
-		arr.forEach(function(value){
+		arr.forEach(
+			function(value){
 			if(!counts[value]) {
 				counts[value] = 0;
 			}
 			counts[value]++;
 		});
-		console.log(counts);
-		return Object.keys(counts).sort(function(curKey, nextKey){
-			return counts[curKey] < counts[nextKey];
-		});
+		return Object.keys(counts).sort(
+			function(curKey, nextKey){
+				return counts[curKey] < counts[nextKey];
+			}
+		);
+		// console
+		console.log("counts = " + counts);
+		// console
 	}
+
+
+	function sortByFrequency(array) {
+		var frequency = {};
+		var sortAble = [];
+		var newArr = [];
+
+		array.forEach(function(value) { 
+			if ( value in frequency )
+				frequency[value] = frequency[value] + 1;
+			else
+				frequency[value] = 1;
+		});
+		
+		for(var key in frequency){
+			sortAble.push([key, frequency[key]])
+		}
+
+		sortAble.sort(function(a, b){
+			return b[1] - a[1]
+		})
+		
+		sortAble.forEach(function(obj){
+			for(var i=0; i < obj[1]; i++){
+				newArr.push(obj[0]);
+			}
+		})
+		return newArr;
+	}
+
+
+
 	function cameraStart() {
 		document.getElementById("cameraHolder").innerHTML = "<div id='camera'><span id='camera-text'>Aponte a câmera para o código de barras</span><div id='barLine'></div>";
 		document.getElementById("cameraStartButtonBg").style.background = "white";
@@ -123,15 +161,22 @@
 		var lastResult = [];
 		lastResult.splice(0, lastResult.length);
 		var barCode = [];
-		var listValidEAN = ["7891177801308","42110200","42176763","42277217","42355014","42360407","42360414","42389248","42398004","78906617","4005808174478","4005808189342","4005808189625","4005808309436","4005808315697","4005808335435","4005808561162","4005808569878","4005808570928","4005808571147","4005808572175","4005808692576","4005808811212","4005808811717","4005808812875","4005808812899","4005808890590","4005900004956","4005900079664","4005900139849","4005900139856","4005900359261","4005900408891","4005900418777","4005900520920","4005900539724","4005900539731","4005900602220","4005900662019","4005900748676","4005900782007","4005900813046","4005900813053","4005900889713","4005900889720","4005900889737","4005900894779","4005900929358","4005900929679","4005900929686","4005900950987"]
+		var listValidEAN = ["7891177801308","42110200","42176763","42277217","42355014","42360407","42360414","42389248","42398004","78906617","4005808174478","4005808189342","4005808189625","4005808309436","4005808315697","4005808335435","4005808561162","4005808569878","4005808570928","4005808571147","4005808572175","4005808692576","4005808811212","4005808811717","4005808812875","4005808812899","4005808890590","4005900004956","4005900079664","4005900139849","4005900139856","4005900359261","4005900408891","4005900418777","4005900520920","4005900539724","4005900539731","4005900602220","4005900662019","4005900748676","4005900782007","4005900813046","4005900813053","4005900889713","4005900889720","4005900889737","4005900894779","4005900929358","4005900929679","4005900929686","4005900950987", "4005900779458"]
 		Quagga.onDetected(function(data){
 			var page = data.codeResult.code;
 			lastResult.push(page);
-			if (lastResult.length > 5){
-				barCode = orderByOcurrence(lastResult)[0];
+			if (lastResult.length > 25){
+				// barCode = orderByOcurrence(lastResult)[0];
+				barCode = sortByFrequency(lastResult)[0];
+				// console
+				console.log("lastResult = " + lastResult);
+				// console
+				document.getElementById("consolelog").innerHtml = "barCode";
 				Quagga.stop();
 				if (listValidEAN.includes(barCode)) {
-					console.log("foi:" + barCode);
+					// console
+					console.log("foi barCode = " + barCode);
+					// console
 					document.getElementById("encontrado").classList.remove("d-none");
 					document.getElementById("nao-encontrado").classList.add("d-none");
 					document.getElementById("resultado-image").setAttribute("src","comp/images/" + barCode + "/" + barCode + "_00.png");
@@ -139,7 +184,9 @@
 					document.getElementById("barLine").classList.add("d-none");
 					document.getElementById("resultado-modal").classList.remove("d-none");
 				} else {
-					console.log("não foi:" + barCode);
+					// console
+					console.log("não foi barCode = " + barCode); 
+					// console
 					document.getElementById("encontrado").classList.add("d-none");
 					document.getElementById("nao-encontrado").classList.remove("d-none");
 					document.getElementById("resultado-modal").classList.remove("d-none");
