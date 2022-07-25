@@ -39,9 +39,9 @@
 			</div>
 			<div class="col-8 col-md-4">
 			<picture>
-    <source type="image/webp" srcset="comp/images/4005900929358/4005900929358-00.webp">
-    <source type="image/jpeg" srcset="comp/images/4005900929358/4005900929358-00.png">				
-			<img src="comp/images/4005900929358/4005900929358-00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
+    <source type="image/webp" srcset="comp/images/4005900929358/4005900929358_00.webp">
+    <source type="image/jpeg" srcset="comp/images/4005900929358/4005900929358_00.png">				
+			<img src="comp/images/4005900929358/4005900929358_00.png" style="max-width: 100%;" alt="NIVEA" class="fade-revealUp">
 </picture>
 			</div>
 			<div class="col-12 col-md-9 text-center">
