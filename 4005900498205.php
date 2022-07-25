@@ -17,7 +17,7 @@
 				<span>Todos </span>
                 <span>produtos </span>
                 <span>da </span>
-                <span>nivea </span>
+                <span>NIVEA </span>
                 <span>são </span>
                 <span>excelentes,</span> 
                 <span>há </span>
@@ -206,7 +206,7 @@
 		<div class="container-fluid containerF">
 			<div class="row">
 				<div class="col-12">
-					<h1>Compre o seu</h1>
+					<h1>Aproveite</h1>
 				</div>
 			</div>
 		</div>

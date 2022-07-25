@@ -2,7 +2,7 @@
 <!-- 4005808310999 -->
 <style>:root {
 	--cor01: #0033a1;
-	--cor02: white;
+	--cor02: #0033a1;
 	--cor03: #cddcee;
 }</style>
 
@@ -181,7 +181,7 @@
 		<div class="container-fluid containerF">
 			<div class="row">
 				<div class="col-12">
-					<h1>Compre o seu</h1>
+					<h1>Aproveite</h1>
 				</div>
 			</div>
 		</div>

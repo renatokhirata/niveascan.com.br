@@ -226,6 +226,7 @@ h1,h2,h3,h4,h5,p {
 	border-radius: 50px;
 	padding: 10px 50px;
 	cursor: pointer;
+	margin-bottom: 24px;
 }
 .ingredientesLista {
 	color: var(--cor02);
