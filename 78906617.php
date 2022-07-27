@@ -155,16 +155,13 @@
 					Protege do frio
 					</div>
 					<div class="fade-revealUp">
-                    Hidratante pós-barba
+                                        Hidratante pós-barba
 					</div>
-                    <div class="fade-revealUp">
-                    Pode usar para fazer massagens
-					</div>
-					<div class="fade-revealUp">
-                    Cuida da pele tatuada
+                                       <div class="fade-revealUp">
+                                        Pode usar para fazer massagens
 					</div>
 					<div class="fade-revealUp">
-                    E muito mais!
+                                        Cuida da pele tatuada e muito mais!
 					</div>
 				</div>
 			</div>
