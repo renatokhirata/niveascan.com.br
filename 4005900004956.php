@@ -134,35 +134,26 @@
 					O que é?
 				</h3>
 				<p class="fade-revealUp">
-                Enriquecido com Manteiga de Karité, NIVEA Soft Milk proporciona hidratação prolongada para a pele seca e desodoriza a pele.
+                Loção Hidratante NIVEA Soft Milk tem rápida absorção e oferece maciez prolongada. Fórmula com ingredientes naturais. É mais cuidado para você!
 				</p>
 				<h3 class="fade-revealUp">
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                Proporciona 48 horas de hidratação, protegendo a pele contra o ressecamento, deixando-a desodorizada e com uma gostosa sensação de suavidade.
+                O hidratante para pele seca é rico em manteiga de Karité, que deixa a pele macia, perfumada e protegida contra o ressecamento por 48h.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
 				</h3>
 				<div class="beneficios">
 					<div class="fade-revealUp">
-					Fórmula de rápida absorção
+					Não deixa a pele oleosa
 					</div>
 					<div class="fade-revealUp">
-                    Não deixa a sensação de oleosidade
+                                        Estimula a produção de colágeno
 					</div>
-                    <div class="fade-revealUp">
-					Possui ação desodorante
-					</div>
-					<div class="fade-revealUp">
-					48 horas de hidratação
-					</div>
-					<div class="fade-revealUp">
-					Não contém corantes, álcool etílico e ingredientes de origem animal
-					</div>
-					<div class="fade-revealUp">
-					Dermatologicamente testado
+                                        <div class="fade-revealUp">
+					Não contém corantes nem álcool etílico
 					</div>
 				</div>
 			</div>
