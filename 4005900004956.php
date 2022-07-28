@@ -140,7 +140,7 @@
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                O hidratante para pele seca é rico em manteiga de Karité, que deixa a pele macia, perfumada e protegida contra o ressecamento por 48h.
+                O hidratante para pele seca é rico em manteiga de Karité, que deixa a pele macia, perfumada e protegida contra o ressecamento por 48h. 
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
@@ -150,9 +150,9 @@
 					Não deixa a pele oleosa
 					</div>
 					<div class="fade-revealUp">
-                                        Estimula a produção de colágeno
+                    Estimula a produção de colágeno
 					</div>
-                                        <div class="fade-revealUp">
+                    <div class="fade-revealUp">
 					Não contém corantes nem álcool etílico
 					</div>
 				</div>

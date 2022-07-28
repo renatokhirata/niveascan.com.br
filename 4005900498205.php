@@ -135,7 +135,7 @@
                 Para que serve?
 				</h3>
 				<p class="fade-revealUp">
-                O hidratante firmador melhora visivelmente a firmeza e a elasticidade da pele em apenas 10 dias. Indicado para  pele seca à extrasseca.
+                O hidratante firmador melhora visivelmente a firmeza e a elasticidade da pele em apenas 10 dias. Indicado para pele seca à extrasseca.
 				</p>
 				<h3 class="fade-revealUp">
 					Benefícios e diferenciais
